@@ -1,4 +1,4 @@
-# Sample course metric
+# Sample course metric 
 
 ## 1. Provide a description of the desired metric and what you intend to measure
 
